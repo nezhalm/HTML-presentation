@@ -1,0 +1,15 @@
+HTML signifie « HyperText Markup Language » qu'on peut traduire par « langage de balises pour l'hypertexte ». Il est utilisé afin de créer et de représenter le contenu d'une page web et sa structure.
+
+
+
+L'« hypertexte » désigne les liens qui relient les pages web entre elles, que ce soit au sein d'un même site web ou entre différents sites web. Les liens sont un aspect fondamental du Web. Ce sont eux qui forment cette « toile » (ce mot est traduit par web en anglais). En téléchargeant du contenu sur l'Internet et en le reliant à des pages crées par d'autres personnes, vous devenez un participant actif du World Wide Web
+
+
+Le HTML (Hypertext Markup Language) est un format de données permettant d'afficher sur des pages web, des images, des tableaux... En bref, il est utile pour la mise en forme de votre contenu,Ce format de données repose sur le balisage. Chaque balise représente une fonction d'affichage.
+
+
+
+Si le langage HTML permet d'afficher des pages d'une grande variété de contenus, de mise en forme, d'animations, ..., il a également la qualité de pouvoir être écrit avec un simple éditeur de texte, ce qui évite l'utilisation d'une application spécifique.
+
+passant maintenant à la définition des balises...
+
